@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/NewbieGuide" />
+            <option value="$PROJECT_DIR$/SmartRefreshLayout" />
+            <option value="$PROJECT_DIR$/XhsEmoticonsKeyboard" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/badgeviewlib" />
+            <option value="$PROJECT_DIR$/emoji" />
+            <option value="$PROJECT_DIR$/lfilepickerlibrary" />
+            <option value="$PROJECT_DIR$/pickerview" />
+            <option value="$PROJECT_DIR$/promptlibrary" />
+            <option value="$PROJECT_DIR$/roundedimageview" />
+            <option value="$PROJECT_DIR$/stickyheadersrecyclerview" />
+            <option value="$PROJECT_DIR$/wheelview" />
+            <option value="$PROJECT_DIR$/zhyBaseAdapter" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
