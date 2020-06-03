@@ -8,13 +8,12 @@ buildscript {
     dependencies {
         classpath 'com.android.tools.build:gradle:3.2.1'
         classpath "org.greenrobot:greendao-gradle-plugin:3.2.2"
-        classpath 'me.tatarka:gradle-retrolambda:3.7.0'
     }
 
     ext {
         compileSdkVersion = 28
         buildToolsVersion = '28.0.3'
-        minSdkVersion = 26
+        minSdkVersion = 19
         targetSdkVersion = 28
         appTargetSdkVersion = 28
 
