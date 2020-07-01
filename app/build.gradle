@@ -106,6 +106,14 @@ dependencies {
     implementation project(':stickyheadersrecyclerview')
     implementation project(':roundedimageview')
     implementation project(':emoji')
-    implementation project(':lfilepickerlibrary')
 
+    implementation project(':baserecyclerviewadapterhelper')
+    implementation project(':mydrawerlib')
+    implementation project(':medialoader')
+    implementation project(':marqueeview')
+    implementation project(':rangeseekbar')
+    implementation project(':rxpermissions')
+    implementation project(':horizontalvariablelistview')
+    implementation project(':animsidebar')
+    implementation project(':labelviewlib')
 }
